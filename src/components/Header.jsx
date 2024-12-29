@@ -11,7 +11,7 @@ const Header = () => {
         <div className='max-w-screen-2xl w-full mx-auto px-4 flex justify-between items-center md:px-6 md:grid md:grid-cols-[1fr,3fr,1fr]'>
             <h1>
                 <a href='/' className='logo'>
-                    <img src="public/images/logo2.jpg" width={40} height={40} alt='Senoussi Al-Nadjib'/>
+                    <img src="public/images/logo.jpg" width={40} height={40} alt='logo'/>
                 </a>
             </h1>
             <div className='relative md:justify-self-center'>
