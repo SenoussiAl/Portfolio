@@ -99,3 +99,6 @@ body {
   @apply text-5xl font-semibold leading-tight lg:text-[55px] lg:leading-[1.15];
 }
 
+.section {
+  @apply pt-20 lg:pt-32;
+}
