@@ -98,6 +98,9 @@ body {
 .headline-1 {
   @apply text-5xl font-semibold leading-tight lg:text-[55px] lg:leading-[1.15];
 }
+.headline-2 {
+  @apply text-3xl font-semibold lg:leading-tight lg:text-4xl ;
+}
 
 .section {
   @apply pt-20 lg:pt-32;
