@@ -11,7 +11,7 @@ const projects = [
   ];
 const Project = () => {
   return (
-    <section className='section' id='project'> 
+    <section className='section' id='projects'> 
             <div className="container">
                 <h2 className='headline-2'>
                     My projects

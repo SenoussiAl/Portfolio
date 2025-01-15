@@ -8,7 +8,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Skill from "./components/Skill";
 import Project from "./components/Project";
-import Work from "./components/Project";
+import Experience from "./components/Experience";
 
 const App = () => {
 
@@ -20,6 +20,7 @@ const App = () => {
       <About />
       <Skill />
       <Project />
+      <Experience />
     </main>
     </>
   )
